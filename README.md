@@ -38,10 +38,3 @@ The code is grouped conceptually by topic. Each section typically includes `.cpp
 
 - `vectors.cpp`: Introduction to the `std::vector` container.
 
-## Getting Started
-
-To compile and run individual examples:
-
-```bash
-g++ -std=c++17 -o classes_main classes.cpp classes_main.cpp
-./classes_main
